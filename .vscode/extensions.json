@@ -1,0 +1,45 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+    // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+  
+    // List of extensions which should be recommended for users of this workspace.
+    "recommendations": [
+      "2gua.rainbow-brackets",
+      "aaron-bond.better-comments",
+      "dzhavat.bracket-pair-toggler",
+      "formulahendry.auto-close-tag",
+      "PKief.material-icon-theme",
+      "christian-kohler.path-intellisense",
+      "akamud.vscode-javascript-snippet-pack",
+      "christian-kohler.npm-intellisense",
+      "cmstead.jsrefactor",
+      "codezombiech.gitignore",
+      "davidanson.vscode-markdownlint",
+      "dbaeumer.vscode-eslint",
+      "dkundel.vscode-new-file",
+      "drknoxy.eslint-disable-snippets",
+      "esbenp.prettier-vscode",
+      "fabiospampinato.vscode-todo-plus",
+      "ghmcadams.lintlens",
+      "leizongmin.node-module-intellisense",
+      "mgmcdermott.vscode-language-babel",
+      "mhutchie.git-graph",
+      "mikestead.dotenv",
+      "oderwat.indent-rainbow",
+      "plievone.vscode-template-literal-editor",
+      "rafaelmaiolla.remote-vscode",
+      "rbbit.typescript-hero",
+      "sleistner.vscode-fileutils",
+      "spywhere.guides",
+      "steoates.autoimport",
+      "streetsidesoftware.code-spell-checker",
+      "vilicvane.es-quotes",
+      "vincaslt.highlight-matching-tag",
+      "waderyan.gitblame",
+      "wayou.vscode-todo-highlight",
+      "xabikos.javascriptsnippets",
+      "rangav.vscode-thunder-client"
+    ],
+    // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+    "unwantedRecommendations": []
+  }
